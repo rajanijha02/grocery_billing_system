@@ -1,0 +1,17 @@
+	     welcome
+Bill Number: 1891
+Customer Name: test
+Phone Number: 98765433211
+===============================
+Products	      QTY	       Price
+===============================
+ Milk		1	  50
+ Butter		1	  80
+ Juice		2	  120
+ Candy		3	  180
+-------------------------------
+Dairy Tax		    Rs. 3.9
+Beverage Tax		    Rs. 3.6
+Snacks Tax		    Rs. 5.4
+Total Bill:	        Rs. 442.9
+-------------------------------
